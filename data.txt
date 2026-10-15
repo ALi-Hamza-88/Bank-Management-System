@@ -1,0 +1,9 @@
+38	Alihamza	90000
+37	BhaiFaizan	605000
+27	Usman	200000
+2	Ali	1008
+3	azam	10997
+5	Waleed	3087
+123	rana_waleed	70000
+234	ali	20000
+32	34	34
